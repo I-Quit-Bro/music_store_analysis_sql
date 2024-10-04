@@ -12,4 +12,4 @@ This project is for beginners and will help you analyze the music playlist datab
 * PgAdmin4
 
 Schema- Music Store Database  
-![MusicDatabaseSchema]()
+![MusicDatabaseSchema](https://github.com/I-Quit-Bro/music_store_analysis_sql/blob/main/MusicDatabaseSchema.png)
